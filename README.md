@@ -1,4 +1,4 @@
-# my-onboard-response-storage Project
+# onboard-response-storage Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
